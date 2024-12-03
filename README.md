@@ -23,7 +23,7 @@ requirements.txt: A list of dependencies to install for running the project.
 # 🚀 How to Get Started
 Clone the repository:
 git clone https://github.com/GlucoScan-Bangkit/GlucoScanProject.git
-cd drink-nutrition-scanner
+cd GlucoScanProject
 
 Install dependencies:
 pip install -r requirements.txt
