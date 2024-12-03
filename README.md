@@ -23,6 +23,7 @@ Here's what you'll find in this repository:
 # 🚀 How to Get Started
 Clone the repository:
 git clone https://github.com/GlucoScan-Bangkit/GlucoScanProject.git
+
 cd GlucoScanProject
 
 Install dependencies:
