@@ -15,10 +15,10 @@ Welcome to our GlucoScan project! This repository houses a powerful machine lear
 # 📂 Repository Structure
 
 Here's what you'll find in this repository:
-Image_Recognition_+_OCR.ipynb: Interactive Jupyter Notebook for testing and experimenting with the model.
-image_recognition_+_ocr.py: Python script to run the full pipeline outside of the notebook environment.
-final_nutrition_model_ML.h5: Our machine learning model used for image recognition and OCR tasks.
-requirements.txt: A list of dependencies to install for running the project.
+1. Image_Recognition_+_OCR.ipynb: Interactive Jupyter Notebook for testing and experimenting with the model.
+2. image_recognition_+_ocr.py: Python script to run the full pipeline outside of the notebook environment.
+3. final_nutrition_model_ML.h5: Our machine learning model used for image recognition and OCR tasks.
+4. requirements.txt: A list of dependencies to install for running the project.
 
 # 🚀 How to Get Started
 Clone the repository:
@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 Run the pipeline:
 Notebook: Open Image_Recognition_+_OCR.ipynb in Jupyter Notebook to interactively test the system.
+
 Script: Run the pipeline using the Python script: python image_recognition_+_ocr.py
 
 # 📢 Contributing
