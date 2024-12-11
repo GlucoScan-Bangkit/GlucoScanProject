@@ -31,8 +31,9 @@ pip install -r requirements.txt
 
 Run the pipeline:
 Notebook: Open Image_Recognition_+_OCR.ipynb in Jupyter Notebook to interactively test the system.
-
 Script: Run the pipeline using the Python script: python image_recognition_+_ocr.py
 
+# 📷 Dataset
+You can access our dataset from: https://drive.google.com/drive/folders/1Casu1_jepy_A4iI1gde8J5Z9Faz5faW8?usp=drive_link
 # 📢 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request to enhance the project.
